@@ -1,0 +1,9 @@
+*.o
+*.obj
+log_reg
+log_reg.exe
+log_reg_tests
+log_reg_tests.exe
+build/
+.vscode/
+.idea/
